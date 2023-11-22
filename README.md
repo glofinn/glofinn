@@ -1,4 +1,4 @@
-Hi 👋 My name is Finn Chen
+Hi I'm Finn Chen
 ==========================
 
 Full-Stack Developer
