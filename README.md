@@ -10,12 +10,11 @@ Transitioned into developing after working in NYC and Milan as a fashion stylist
 * 🖥️  See my portfolio at <a href="http://www.itsfinnchen.com/tech-projects/" target="_blank" rel="noreferrer">[My Portfolio]<a/>
 * ✉️  You can contact me at [finn.chen.maenhaut@gmail.com](mailto:finn.chen.maenhaut@gmail.com)
 
-* # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=glofinn&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=glofinn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=glofinn&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
