@@ -7,7 +7,6 @@ Full-Stack Developer
 Transitioned into developing after working in NYC and Milan as a fashion stylist and creative consultant.
 
 * 🌍  I'm based in New York and Antwerp, Belgium.
-* 🖥️  See my portfolio at <a href="http://www.itsfinnchen.com/tech-projects/" target="_blank" rel="noreferrer">[My Portfolio]<a/>
 * ✉️  You can contact me at [finn.chen.maenhaut@gmail.com](mailto:finn.chen.maenhaut@gmail.com)
 
 
